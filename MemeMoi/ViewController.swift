@@ -3,7 +3,7 @@
 //  MemeMoi
 //
 //  Created by Luke CHEUNG on 3/11/16.
-//  Copyright © 2016 Luke Cheung. All rights reserved.
+//  Copyright © 2016 LuCH. All rights reserved.
 //
 
 import UIKit
